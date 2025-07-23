@@ -1,0 +1,56 @@
+-------------------------DATA  STORED------------------------------
+   Data of Student No 1
+   Name: KHIZAR-AMEER
+   ID: 21016065019
+   Password: khizar123
+   Fees: 1
+   CGPA: 3.5
+   Address: BERLIN
+   Number: 6139976
+-------------------------------------------------------------------
+   Data of Student No 2
+   Name: WAJID-ABID
+   ID: 21016065027
+   Password: wajid123
+   Fees: 0
+   CGPA: 3.4
+   Address:  SIALKOT
+   Number: 6139975
+-------------------------------------------------------------------
+   Data of Student No 3
+   Name: BILAL-AHMED
+   ID: 21016065011
+   Password: bilal123
+   Fees: 1
+   CGPA: 2.9
+   Address:  SIALKOT
+   Number: 7530005
+-------------------------------------------------------------------
+   Data of Student No 4
+   Name: HAIDER-CH
+   ID: 21016065069
+   Password: haider123
+   Fees: 1
+   CGPA: 1.8
+   Address:  SIALKOT
+   Number: 7145512
+-------------------------------------------------------------------
+   Data of Student No 5
+   Name: SAFRA
+   ID: 21016065004
+   Password: safra123
+   Fees: 0
+   CGPA: 3.1
+   Address:  SIALKOT
+   Number: 6320479
+-------------------------------------------------------------------
+KHIZAR-AMEER
+ID: 21016065019
+CGPA: 3.5
+OOP
+Discrete Structures
+Applied Physics
+OOP LAB
+Composition & Communication
+Applied Physics Lab
+Pakistan Studies
